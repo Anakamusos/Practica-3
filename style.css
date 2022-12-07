@@ -1,11 +1,15 @@
-#rojo{
+.navegador3{
     color: red;
 }
 
-#azul{
+.navegador1{
     color: blue;
 }
 
-#verde{
+p{
     color: green;
+}
+
+#negro{
+    color: black;
 }
